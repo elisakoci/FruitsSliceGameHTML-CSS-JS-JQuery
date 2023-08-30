@@ -1,4 +1,5 @@
 # FruitsSliceGameHTML-CSS-JS-JQuery
+![fruitGame](https://github.com/elisakoci/FruitsSliceGameHTML-CSS-JS-JQuery/assets/49443032/e2f0aeaa-3911-4fd6-a427-19f83e25e518)
 
 
 Fruits Game 
